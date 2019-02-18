@@ -1,6 +1,6 @@
-.ibz_rot {color:var(--ibz_rot)}
-.ibz_schwarz {color:var(--ibz_schwarz)}
-.ibz_weiss {color:var(--ibz_weiss)}
+.ibz_rot {color:#e81000c}
+.ibz_schwarz {color:#333}
+.ibz_weiss {color:#fff}
 
 :root {
   --ibz_rot:#e81000c;
@@ -10,3 +10,5 @@
 .center {margin:0 auto;}
 .width {width:60%}
 img {display:flex}
+
+div.box {background-color:#333; border:0px solid black;border-radius:10px}
