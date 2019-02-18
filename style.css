@@ -1,7 +1,7 @@
 .ibz_rot {color:#e81000c}
 .ibz_schwarz {color:#333}
 .ibz_weiss {color:#fff}
-
+p {color:#fff}
 :root {
   --ibz_rot:#e81000c;
   --ibz_schwarz:#333;
@@ -9,6 +9,6 @@
 }
 .center {margin:0 auto;}
 .width {width:60%}
-img {display:flex}
+img {display:flex;background-color:#fff;border-radius:10px;border:0 solid black;}
 
 div.box {background-color:#333; border:0px solid black;border-radius:10px}
