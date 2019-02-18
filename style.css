@@ -1,1 +1,9 @@
+.ibz_rot {color:#e8100c}
+.ibz_schwarz {color:#333}
+.ibz_weiss {color:#fff}
 
+root:{
+  -ibz_rot:#e81000c;
+  -ibz_schwarz:#333;
+  -ibz_weiss:#fff;
+}
