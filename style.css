@@ -17,4 +17,16 @@ body {margin:0;background-color:#ffe8d1}
 
 div.content {background-color:#ffe8d1;margin-top:60px}
 div.box {background-color:#fff; border:3px solid #333;border-radius:10px;text-align:center}
+
+.item-box {background-color:#fff;border:3px solid #333;border-radius:10px;}
+.item1 {width:33.3%;}
+.item2 {width:33.3%;}
+.item3 {width:33.3%;align-self: center;}
+
+.item2>ul{list-style-type:none;}
+.item2>label {
+    font-weight: bold;
+}
+.item3 img {width:100%}
+
 div.footer {background-color:#333;width:100%}
