@@ -11,6 +11,7 @@ p {color:#fff}
 .width {width:60%}
 img {display:flex;background-color:#fff;border-radius:10px;border:0 solid black;}
 
+div.content {background-color:#ffe8d1;}
 div.box {background-color:#333; border:3px solid #333;border-radius:10px}
 div.header {background-color:transparent; position:fixed;top:0;left:0;width:100%;height:50px}
 div.footer {background-color:#333;position:relative;left:-16px}
