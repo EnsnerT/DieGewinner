@@ -1,7 +1,7 @@
 .ibz_rot {color:#e81000c}
 .ibz_schwarz {color:#333}
 .ibz_weiss {color:#fff}
-p {color:#fff}
+p,h1,h2,h3 {color:#fff}
 :root {
   --ibz_rot:#e81000c;
   --ibz_schwarz:#333;
