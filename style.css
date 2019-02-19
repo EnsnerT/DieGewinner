@@ -7,6 +7,7 @@ p,h1,h2,h3 {color:#333}
   --ibz_schwarz:#333;
   --ibz_weiss:#fff;
 }
+body {margin:0}
 .center {margin:5px auto;}
 .width {width:60%}
 img {display:block;background-color:#fff;border-radius:10px;border:0px solid #333;}
