@@ -12,6 +12,6 @@ p,h1,h2,h3 {color:#333}
 img {display:block;background-color:#fff;border-radius:10px;border:0px solid #333;}
 
 div.content {background-color:#ffe8d1;}
-div.box {background-color:#fff; border:3px solid #333;border-radius:10px}
+div.box {background-color:#fff; border:3px solid #333;border-radius:10px;text-align:center}
 div.header {background-color:#333; position:fixed;top:0;left:0;width:100%;height:50px}
 div.footer {background-color:#333;width:100%}
