@@ -28,3 +28,15 @@ div.box {background-color:#fff; border:3px solid #333;border-radius:10px;text-al
 .item3>img {width:100%}
 
 div.footer {background-color:#333;width:100%}
+
+.scroll-box {display:flex;overflow-x:visible;overflow: auto;padding: 5px 5px;}
+
+.vertical-item {
+    display:block;
+    background-color:#fff;
+    border:3px solid #333;
+    border-radius:10px;
+    
+    min-width:30%
+}
+.vitem2>img {max-width:100%}
