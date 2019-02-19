@@ -18,7 +18,7 @@ body {margin:0;background-color:#ffe8d1}
 div.content {background-color:#ffe8d1;margin-top:60px}
 div.box {background-color:#fff; border:3px solid #333;border-radius:10px;text-align:center}
 
-.item-box {background-color:#fff;border:3px solid #333;border-radius:10px;}
+.item-box {background-color:#fff;border:3px solid #333;border-radius:10px;min-height:150px;}
 .item1 {width:33.3%;}
 .item2 {width:33.3%;}
 .item3 {width:33.3%;align-self: center;}
