@@ -12,14 +12,18 @@ Modul 152 Projekt
 <tr><td>Haltbarkeit:                </td><td>haltbarkeit.html   </td></tr>
 <tr><td>10 Besten Parfüme:          </td><td>top.html           </td></tr>
 <tr><td>Über uns:                   </td><td>about.html         </td></tr>
-<th>#Nicht Css & Scripts</th>
+</tbable>
+#Nicht Css & Scripts
+<table>
+
 <tr><td>Main Style:                 </td><td>style.css          </td></tr>
 
 <tr><td>Header and Footer:          </td><td>haf.js             </td></tr>
+</table>
+#Medien
+<table>
 
-<th>#Medien</th>
-
-<tr><td>ddm.png                     </td><td>Parfüm des Monats  </td></tr>
+<tr><td>ddm.png(ddm.png)            </td><td>Parfüm des Monats  </td></tr>
 <tr><td>logo_big.png                </td><td>Groses Logo(alt)   </td></tr>
 <tr><td>favicon.ico                 </td><td>Favicon            </td></tr>
 <tr><td>logo.svg                    </td><td>Vector Logo        </td></tr>
