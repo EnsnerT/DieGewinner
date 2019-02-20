@@ -20,7 +20,7 @@ Modul 152 Projekt
 <th>#Nicht Css & Scripts</th>
 
 <tr><td>Main Style:              </td><td>style.css(https://github.com/EnsnerT/DieGewinner/edit/master/style.css)  </td></tr>
-<tr><td>Header and Footer:       </td><td>[haf.js](https://github.com/EnsnerT/DieGewinner/edit/master/haf.js)        </td></tr>
+<tr><td>Header and Footer:       </td><td>haf.js(https://github.com/EnsnerT/DieGewinner/edit/master/haf.js)        </td></tr>
 </table>
 <br>
 
