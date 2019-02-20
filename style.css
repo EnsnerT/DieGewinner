@@ -26,6 +26,7 @@ div.box {background-color:#fff; border:3px solid #333;border-radius:10px;text-al
 .item2>ul{list-style-type:none;}
 .item2>label {font-weight: bold;}
 .item3>img {width:100%}
+.box>ul{list-style-type: circle;list-style-position: outside;text-align: left;}
 
 div.footer {background-color:#333;width:100%}
 
