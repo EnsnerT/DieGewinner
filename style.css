@@ -20,7 +20,7 @@ div.box {background-color:#fff; border:3px solid #333;border-radius:10px;text-al
 
 .item-box {background-color:#fff;border:3px solid #333;border-radius:10px;display:flex;padding:5px}
 .item1 {width:33.3%;}
-.item2 {width:33.3%;border-left:1px solid #333;border-right:1px solid #333}
+.item2 {width:33.3%;border-left:1px solid #333;border-right:1px solid #333;padding:5px}
 .item3 {width:33.3%;align-self: center;text-align:center;}
 
 .item2>ul{list-style-type:none;}
