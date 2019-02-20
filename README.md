@@ -27,7 +27,7 @@ Modul 152 Projekt
 
 <table>
 <th>#Medien</th>
-<tr><td>ddm.png                (https://github.com/EnsnerT/DieGewinner/edit/master/ddm.png)      </td><td>Parfüm des Monats    </td></tr>
+<tr><td>ddm.png                (https://github.com/EnsnerT/DieGewinner/edit/master/ddm.png)      </td><td>Duft des Monats      </td></tr>
 <tr><td>logo_big.png           (https://github.com/EnsnerT/DieGewinner/edit/master/logo_big.png) </td><td>Groses Logo(alt)     </td></tr>
 <tr><td>favicon.ico            (https://github.com/EnsnerT/DieGewinner/edit/master/favicon.ico)  </td><td>Favicon              </td></tr>
 <tr><td>logo.svg               (https://github.com/EnsnerT/DieGewinner/edit/master/logo.svg)     </td><td>Vector Logo          </td></tr>
