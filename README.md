@@ -1,6 +1,7 @@
 # DieGewinner
 Modul 152 Projekt
 
+[Direkte Webseite](https://ensnert.github.io/DieGewinner) 
 
 <table>
 
@@ -19,17 +20,17 @@ Modul 152 Projekt
 <table>
 <th>#Nicht Css & Scripts</th>
 
-<tr><td>Main Style:        </td><td>style.css</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/style.css	    </td></tr>
-<tr><td>Header and Footer: </td><td>haf.js   </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/haf.js   	    </td></tr>
+<tr><td>Main Style:        </td><td>style.css</td><td></td><td>https://github.com/EnsnerT/DieGewinner/edit/master/style.css	  </td></tr>
+<tr><td>Header and Footer: </td><td>haf.js   </td><td></td><td>https://github.com/EnsnerT/DieGewinner/edit/master/haf.js      </td></tr>
 </table>
 <br>
 
 
 <table>
 <th>#Medien</th>
-<tr><td>ddm.png                </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/ddm.png      </td><td>Duft des Monats </td></tr>
-<tr><td>logo_big.png           </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/logo_big.png </td><td>Groses Logo(alt)</td></tr>
-<tr><td>favicon.ico            </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/favicon.ico  </td><td>Favicon         </td></tr>
-<tr><td>logo.svg               </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/logo.svg     </td><td>Vector Logo     </td></tr>
+<tr><td>ddm.png        </td><td>Duft des Monats      </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/ddm.png      </td></tr>
+<tr><td>logo_big.png   </td><td>Groses Logo(alt)	 </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/logo_big.png   </td></tr>
+<tr><td>favicon.ico    </td><td>Favicon              </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/favicon.ico  </td></tr>
+<tr><td>logo.svg       </td><td>Vector Logo          </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/logo.svg     </td></tr>
 </table>
 
