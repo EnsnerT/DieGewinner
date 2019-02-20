@@ -18,7 +18,7 @@ Modul 152 Projekt
 
 
 <table>
-<th>#Nicht Css & Scripts</th>
+<th>Nicht Css & Scripts</th>
 
 <tr><td>Main Style        </td><td>style.css</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/style.css	  </td></tr>
 <tr><td>Header and Footer </td><td>haf.js   </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/haf.js      </td></tr>
@@ -27,7 +27,7 @@ Modul 152 Projekt
 
 
 <table>
-<th>#Medien</th>
+<th>Medien</th>
 <tr><td>ddm.png        </td><td>Duft des Monats      </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/ddm.png      </td></tr>
 <tr><td>logo_big.png   </td><td>Groses IBZ Logo      </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/logo_big.png </td></tr>
 <tr><td>favicon.ico    </td><td>Favicon              </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/favicon.ico  </td></tr>
