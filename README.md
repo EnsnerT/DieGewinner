@@ -1,7 +1,7 @@
 # DieGewinner
 Modul 152 Projekt
 
-[Direkte Webseite](https://ensnert.github.io/DieGewinner) 
+[Direkte Webseite (https://ensnert.github.io/DieGewinner)](https://ensnert.github.io/DieGewinner) 
 
 <table>
 
@@ -29,7 +29,7 @@ Modul 152 Projekt
 <table>
 <th>#Medien</th>
 <tr><td>ddm.png        </td><td>Duft des Monats      </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/ddm.png      </td></tr>
-<tr><td>logo_big.png   </td><td>Groses Logo(alt)	 </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/logo_big.png   </td></tr>
+<tr><td>logo_big.png   </td><td>Groses IBZ Logo      </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/logo_big.png </td></tr>
 <tr><td>favicon.ico    </td><td>Favicon              </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/favicon.ico  </td></tr>
 <tr><td>logo.svg       </td><td>Vector Logo          </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/logo.svg     </td></tr>
 </table>
