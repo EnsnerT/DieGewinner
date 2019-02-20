@@ -6,13 +6,13 @@ Modul 152 Projekt
 <table>
 
 <th>Seiten</th>
-<tr><td>Home:              </td><td>index.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/index.html            </td></tr>
-<tr><td>Arten des Parfümes:</td><td>adp.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/adp.html                </td></tr>
-<tr><td>Marken:            </td><td>maken.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/marken.html           </td></tr>
-<tr><td>Auftragestellen:   </td><td>auftragen.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/auftragen.html    </td></tr>
-<tr><td>Haltbarkeit:       </td><td>haltbarkeit.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/haltbarkeit.html</td></tr>
-<tr><td>10 Besten Parfüme: </td><td>top.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/top.html                </td></tr>
-<tr><td>Über uns:          </td><td>about.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/about.html            </td></tr>
+<tr><td>Home              </td><td>index.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/index.html            </td></tr>
+<tr><td>Arten des Parfümes</td><td>adp.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/adp.html                </td></tr>
+<tr><td>Marken            </td><td>maken.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/marken.html           </td></tr>
+<tr><td>Auftragestellen   </td><td>auftragen.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/auftragen.html    </td></tr>
+<tr><td>Haltbarkeit       </td><td>haltbarkeit.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/haltbarkeit.html</td></tr>
+<tr><td>10 Besten Parfüme </td><td>top.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/top.html                </td></tr>
+<tr><td>Über uns          </td><td>about.html</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/about.html            </td></tr>
 </table>
 <br>
 
@@ -20,8 +20,8 @@ Modul 152 Projekt
 <table>
 <th>#Nicht Css & Scripts</th>
 
-<tr><td>Main Style:        </td><td>style.css</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/style.css	  </td></tr>
-<tr><td>Header and Footer: </td><td>haf.js   </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/haf.js      </td></tr>
+<tr><td>Main Style        </td><td>style.css</td><td>https://github.com/EnsnerT/DieGewinner/edit/master/style.css	  </td></tr>
+<tr><td>Header and Footer </td><td>haf.js   </td><td>https://github.com/EnsnerT/DieGewinner/edit/master/haf.js      </td></tr>
 </table>
 <br>
 
