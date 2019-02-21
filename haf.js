@@ -12,5 +12,9 @@ document.body.onload=function(){
   
   var footer='';
   footer+='<br>';
+  footer+=window.innerWidth;
+  footer+='<br>';
+  footer+=window.innerHeight;
+  footer+='<br>';
   document.body.getElementsByClassName("footer")[0].innerHTML=footer;
 }
