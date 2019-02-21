@@ -8,7 +8,7 @@ body {margin:0;background-color:#ffe8d1}
 
 .center {margin:5px auto;}
 .width {width:60%}
-@media only screen and (max-width: 980px){
+@media only screen and (max-width: 600px){
     .width {width:98%}
     .header {zoom:2.3;height: auto!important;display: grid;position:absolute !important;}
     .header>a.home::after {content:'Home'}
