@@ -49,7 +49,7 @@ div.footer {background-color:#333;width:100%}
 @media only screen and (max-width: 600px){
     .width {width:auto}
     .header {height: auto;display: grid;position:absolute !important;}
-    .header>a.home::after {content:' Home'}
+    .header>a[alt="Home"]::after {content:' Home'}
     div.content {margin-top:350px}
     .box , .item-box {border-left:0px solid black!important;border-right:0px solid black!important;border-radius:0px!important}
     .vertical-item {min-width:60%}
