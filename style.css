@@ -14,6 +14,7 @@ body {margin:0;background-color:#ffe8d1}
     .header>a.home::after {content:'Home'}
     div.content {margin-top:350px !important}
     .box , .item-box {border-left:0px solid black!important;border-right:0px solid black!important;border-radius:0px!important}
+    .vertical-item {min-width:60%}
 }
 .content>.box>img {display:block;background-color:#fff;border-radius:10px;border:0px solid #333;margin:0 auto}
 .content>.box>img.logo {max-height:500px}
