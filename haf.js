@@ -12,9 +12,9 @@ document.body.onload=function(){
   
   var footer='';
   footer+='<br>';
-  footer+=window.innerWidth;
+  footer+=window.outerWidth;
   footer+='<br>';
-  footer+=window.innerHeight;
+  footer+=window.outerHeight;
   footer+='<br>';
   document.body.getElementsByClassName("footer")[0].innerHTML=footer;
 }
