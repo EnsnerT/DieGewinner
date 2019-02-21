@@ -12,7 +12,7 @@ Modul 152 Projekt
 <tr><td>Auftragestellen   </td><td>auftragen.html</td><td>https://github.com/EnsnerT/DieGewinner/blob/master/auftragen.html    </td></tr>
 <tr><td>Haltbarkeit       </td><td>haltbarkeit.html</td><td>https://github.com/EnsnerT/DieGewinner/blob/master/haltbarkeit.html</td></tr>
 <tr><td>10 Besten Parfüme </td><td>top.html</td><td>https://github.com/EnsnerT/DieGewinner/blob/master/top.html                </td></tr>
-<tr><td>Über uns          </td><td>about.html</td><td>https://github.com/EnsnerT/DieGewinner/blob/master/about.html            </td></tr>
+<tr><td>Über uns          </td><td>about.html</td><td>https://github.com/EnsnerT/DieGewinner/blob/master/aboutus.html          </td></tr>
 </table>
 <br>
 
